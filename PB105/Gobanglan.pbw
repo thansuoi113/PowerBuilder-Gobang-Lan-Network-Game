@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "GoBangClient\\gobangclient.pbt";
+ 1 "GobangServer\\gobangserver.pbt";
+@end;
+DefaultTarget "GoBangClient\\gobangclient.pbt";
+DefaultRemoteTarget "GoBangClient\\gobangclient.pbt";
